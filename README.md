@@ -3,7 +3,7 @@
  
  来源网址：http://bbs.nju.edu.cn/bbsdoc?board=bbslists
 
- > 关于小百合的历史，可以参考[南京大学小百合BBS-Wikipedia](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B0%8F%E7%99%BE%E5%90%88BBS)一文（小百合总体变迁示），再结合[小百合站史](http://bbs.nju.edu.cn/bbs0an?path=/er030540162)（需要内网访问）内容进行一些了解。
+ > 关于小百合的历史，可以参考[南京大学小百合BBS-Wikipedia](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B0%8F%E7%99%BE%E5%90%88BBS)一文（小百合总体变迁历史），再结合[小百合站史](http://bbs.nju.edu.cn/bbs0an?path=/er030540162)（需要内网访问）内容进行一些了解。
 
 ## 说明
 
