@@ -1,9 +1,9 @@
 # LilyBBS_DATA
- 南京大学小百合BBS（官方小百合）部分各类统计列表与记录（含原始数据和简单处理）
+ 南京大学小百合BBS（官方小百合）部分各类统计列表与记录、校长信箱内容（含原始数据和简单处理）
 
-数据源：http://bbs.nju.edu.cn/bbsdoc?board=bbslists
+数据源：http://bbs.nju.edu.cn/
 
- > 关于小百合的历史，可以参考[南京大学小百合BBS-Wikipedia](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B0%8F%E7%99%BE%E5%90%88BBS)一文（小百合总体变迁历史），再结合[小百合站史](http://bbs.nju.edu.cn/bbs0an?path=/er030540162)（需要内网访问）内容进行一些了解。
+ > 关于小百合的历史，可以参考[南京大学小百合BBS-Wikipedia](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B0%8F%E7%99%BE%E5%90%88BBS)一文（小百合总体变迁历史），再结合[小百合站史](http://bbs.nju.edu.cn/bbs0an?path=/er030540162)（需要内网访问）内容进行一些了解。本项目无意追究这样的“旧账”，只在乎“以后该怎么办”的问题。
 
 ## 说明
 
